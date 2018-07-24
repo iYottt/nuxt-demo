@@ -60,5 +60,11 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+* {
+  text-align: center
+}
+h1 {
+  padding: 20px;
+}
 </style>
 
